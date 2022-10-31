@@ -50,9 +50,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: saakethmm
 gitlab_username: saakethm
-twitter_username: # your Twitter handle
+twitter_username: saakethmm
 linkedin_username: smedepalli
-scholar_userid: # your Google Scholar ID
+scholar_userid: 
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -68,7 +68,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: true
 
 contact_note: >
-  Send me an email! I would love to discuss ideas.
+  Feel free to reach out (email is best) if you'd like to talk!
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -182,8 +182,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Medepalli
+  first_name: [Saaketh, M.]
 
   style: apa
   locale: en
