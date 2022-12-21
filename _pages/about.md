@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-# description: (Curriculum Vitae) [{{ '/assets/pdf/Medepalli_Saaketh_CV.pdf' | /assets/pdf/Medepalli_Saaketh.CV }}]
+description: Curriculum Vitae
+# description: [Curriculum Vitae]({{ site.baseurl }}{% link assets/pdf/Medepalli_Saaketh_CV.pdf %}) -> how to link to other pages/assets regularly 
+
 
 profile:
   align: right
