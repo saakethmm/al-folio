@@ -21,4 +21,4 @@ In the past, I've done research in different areas related to this question, inc
 
 [comment]: <> (post arXiv of report for EECS 598 and post next to deep learning representations)
 
-In my free time, I enjoy playing tennis 🎾, cooking 🥘, and stargazing 🔭. I also love reading books 📚 in neuroscience and artificial intelligence, tech,history (especially Indian), modern society/politics, and a sprinkle of fiction.
+In my free time, I enjoy playing tennis 🎾, cooking 🥘, and stargazing 🔭. I also love reading books 📚 in neuroscience and artificial intelligence, tech, history (especially Indian), modern society/politics, and a sprinkle of fiction.
