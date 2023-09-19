@@ -15,8 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my website! My name is Saaketh and I'm a senior at the University of Michigan interested in the intersection of neuroscience and deep learning. 
+Welcome to my website! My name is Saaketh and I'm a MS in Machine Learning student at Carnegie Mellon University interested in the mechanisms of intelligence. Lately, I've been interested in AI interpretability in the goals of improving AI safety for the future. 
 
-I'm deeply fascinated by the time-immemorial question of what intelligence is and how we can build truly intelligent machines. To this end, I have done and am doing research in different areas related to this question, including [neuromorphic engineering](https://lugroup.engin.umich.edu), [computational neuroscience](https://alleninstitute.org/what-we-do/brain-science/research/mindscope-program/) and [deep learning representations](https://qingqu.engin.umich.edu).
+In the past, I've done research in different areas related to this question, including [neuromorphic engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200179), [computational neuroscience](https://www.reddit.com/r/neuromatch/comments/xo3nk4/saaketh_medepalli_vip_inhibitory_neurons_in_the/) and deep learning representations.
 
-I enjoy playing tennis, cooking (and eating!), and night sky watching with my telescope. I also love reading and learning about new topics!
+# post arXiv of report for EECS 598 and post next to deep learning representations
+
+In my free time, I enjoy playing tennis 🎾, cooking 🥘, and stargazing 🔭. I also love reading books 📚 in neuroscience and artificial intelligence, tech,history (especially Indian), modern society/politics, and a sprinkle of fiction.
