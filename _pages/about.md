@@ -15,10 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-👋🏽 Welcome to my website! My name is Saaketh and I'm a MS in Machine Learning student at Carnegie Mellon University interested in the mechanisms of intelligence. I'm also interested in AI interpretability in the goals of improving AI safety for the future. 
+👋🏽 Welcome to my website! My name is Saaketh and I'm an [MS in Machine Learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html) student at Carnegie Mellon University interested in the mechanisms of intelligence. I'm also interested in AI interpretability in the goals of improving AI safety for the future. 
 
-In the past, I've done research in different areas related to this question, including [neuromorphic engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200179), [computational neuroscience](https://www.reddit.com/r/neuromatch/comments/xo3nk4/saaketh_medepalli_vip_inhibitory_neurons_in_the/) and representation learning while an undergraduate student at the University of Michigan.
+In the past, I've done research in different areas related to this question, including [neuromorphic engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200179), [computational neuroscience](https://www.reddit.com/r/neuromatch/comments/xo3nk4/saaketh_medepalli_vip_inhibitory_neurons_in_the/) and [representation learning](https://arxiv.org/pdf/2310.00451.pdf) while an undergraduate student at the University of Michigan.
 
 [comment]: <> (post arXiv of report for EECS 598 and post next to deep learning representations)
 
-In my free time, I enjoy playing tennis 🎾, cooking 🥘, and stargazing 🔭. I also love reading books 📚 in neuroscience and artificial intelligence, tech, history (especially Indian), modern society/politics, and a sprinkle of fiction.
+In my free time, I enjoy playing tennis 🎾, cooking 🥘, and stargazing 🔭. I also love reading books 📚 and exploring nature 🌳.

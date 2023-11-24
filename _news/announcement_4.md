@@ -4,4 +4,4 @@ date: 2023-08-10 07:59:00-0400
 inline: true
 ---
 
-Successfully completed my summer internship at Sandia National Laboratories in AutonomyNM, working on event classification for infrasound data!
+Completed my summer internship at Sandia National Laboratories in AutonomyNM, working on event classification for infrasound data.
