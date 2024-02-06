@@ -25,6 +25,8 @@ This book is divided into four parts: **Losses**, **Excesses**, **Transports** a
 <hr>
 ##### ***The Man Who Mistook His Wife for a Hat***
 
+
+
 This was such a fascinating story, partly because Dr. P's (the patient) life seemed completely normal---he was a local and well-reputed musician and teacher with a charm and humor about him---except for some *oddly specific* idiosyncrasies that raised some eyebrows. First, he mistook his foot for a shoe. Next, during some tests, Sacks discovered that Dr. P "failed to see the whole" (Sacks, 10). Then, as hinted at by the title:
 
 <blockquote>
