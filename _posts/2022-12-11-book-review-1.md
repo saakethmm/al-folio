@@ -4,7 +4,7 @@ published: true
 title:  Key Takeaways from <strong><em>A Man Who Mistook His Wife for a Hat</em></strong>
 date:   2022-12-11
 description: Oliver Sacks' encounters with curious patients shed light on the wonders of the brain and life itself! 
-tags: neuroscience
+tags: neuroscience, psychology 
 categories: books
 comments: false # looks disgusting right now, need to fix this too...
 ---
@@ -39,6 +39,7 @@ As Sacks describes it himself, cases such as this one "constitute a radical chal
 
 
 Anyways, just some thoughts for now!
+
 <hr>
 
 
