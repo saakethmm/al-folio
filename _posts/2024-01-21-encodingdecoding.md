@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: distill
 title: Encoding and decoding in fMRI
-published: true
+published: false
 date:   2024-01-21
 description: Naselaris et al. (2011), <em>NeuroImage</em>
 tags: encoding, decoding, fMRI, cognitive-neuroscience
