@@ -5,6 +5,7 @@ permalink: /
 description: Curriculum Vitae
 # description: [Curriculum Vitae]({{ site.baseurl }}{% link assets/pdf/Medepalli_Saaketh_CV.pdf %}) -> how to link to other pages/assets regularly 
 
+# include "Quote of the Day" section in bold and then the quote
 
 profile:
   align: right
@@ -21,4 +22,4 @@ Currently, I'm particularly interested in understanding how language is understo
 
 In the past, I worked on research in different areas related to this question, including [neuromorphic engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200179), [computational neuroscience](https://www.reddit.com/r/neuromatch/comments/xo3nk4/saaketh_medepalli_vip_inhibitory_neurons_in_the/) and [representation learning](https://arxiv.org/pdf/2310.00451.pdf) as an undergrad.
 
-In my free time, I enjoy fitness (🏋🏾/🎾/🏓), cooking 🥘, and learning about Indian history/culture 🪷. I also love reading books 📚 (hit me with any recs!) and exploring the outdoors 🥾.
+In my free time, I enjoy fitness (🏋🏾/🎾/🏏), cooking 🥘, and playing [Carnatic flute](https://en.wikipedia.org/wiki/Venu) 🪈. I also love a good book 📚 or TV show 📺 and exploring the outdoors 🏞️ when the opportunity arises.
