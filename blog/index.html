@@ -18,14 +18,13 @@ pagination:
 <div class="header-bar">
   <h1>{{ site.blog_name }}</h1>
   <h2>
-    <!-- {{ site.blog_description }} -->
-    {% assign quotes = site.data.quotes.quotes %}
-    {% assign random = "now" | date: "%N" | modulo: quotes.size %}
-    <div id="quote" style="font-size: 15px;">
-      <em style="font-style: italic;"> {{ quotes[random].quote | remove: '"' }} </em>
-      <br>
-      <small style="text-align: right; display: block; font-size: 10px;">- {{ quotes[random].speaker }}</small>
-    </div>
+    <div id="quote" style="font-size: 15px;"></div>
+    <script src="/Users/saakethm/Documents/Website/saakethmm.github.io/assets/js/quotes.js"></script>
+    <script>
+      var randomIndex = Math.floor(Math.random() * quotes.length);
+      var quote = quotes[randomIndex];
+      document.getElementById('quote').innerHTML = '<em>' + quote.quote + '</em><br><small style="text-align: right; display: block;">- ' + quote.speaker + '</small>';
+    </script>
   </h2>
 </div>
 
