@@ -15,19 +15,19 @@ pagination:
 
 <div class="post">
 
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>
-      <!-- {{ site.blog_description }} -->
-      {% assign quotes = site.data.quotes.quotes %}
-      {% assign random = "now" | date: "%N" | modulo: quotes.size %}
-      <div id="quote">
-        "{{ quotes[random].quote }}"
-        <br>
-        <small>- {{ quotes[random].speaker }}</small>
-      </div>
-    </h2>
-  </div>
+<div class="header-bar">
+  <h1>{{ site.blog_name }}</h1>
+  <h2>
+    <!-- {{ site.blog_description }} -->
+    {% assign quotes = site.data.quotes.quotes %}
+    {% assign random = "now" | date: "%N" | modulo: quotes.size %}
+    <div id="quote" style="font-size: 15px;">
+      <em style="font-style: italic;"> {{ quotes[random].quote | remove: '"' }} </em>
+      <br>
+      <small style="text-align: right; display: block; font-size: 10px;">- {{ quotes[random].speaker }}</small>
+    </div>
+  </h2>
+</div>
 
 
   <ul class="post-list">
