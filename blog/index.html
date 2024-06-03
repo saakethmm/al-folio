@@ -18,12 +18,12 @@ pagination:
   <div class="header-bar">
     <h1>{{ site.blog_name }}</h1>
     <h2>
-      <div id="quote" style="font-size: 20px;text-align: left;"></div>
+      <div id="quote" style="font-size: 20px; text-align: left;"></div>
       <script src="/assets/js/quotes.js"></script>
       <script>
         var randomIndex = Math.floor(Math.random() * quotes.length);
         var quote = quotes[randomIndex];
-        document.getElementById('quote').innerHTML = '<em>' + quote.quote + '</em><br><small style="text-align: center;">- ' + quote.speaker + '</small>';
+        document.getElementById('quote').innerHTML = '<em>' + quote.quote + '</em><div style="text-align: right; padding-left: 50px;"><small>- ' + quote.speaker + '</small></div>';
       </script>
     </h2>
   </div>
