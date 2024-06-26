@@ -98,5 +98,45 @@ var quotes = [
   {
     quote: "The most important decisions you make are not the things you do, but the things you decide not to do.",
     speaker: "Steve Jobs"
+  },
+  {
+    quote: "If you don't believe you have something you can find, you're never gonna do the hard work to go looking for it.",
+    speaker: "David Bau"
+  },
+  {
+    quote: "My religion is nature. That's what arouses those feelings of wonder and mysticism and gratitude in me.",
+    speaker: "Oliver Sacks"
+  },
+  {
+    quote: "We speak not only to tell other people what we think, but to tell ourselves what we think. Speech is a part of thought.",
+    speaker: "Oliver Sacks"
+  },
+  {
+    quote: "There is no scientific study more vital to man than the study of his own brain. Our entire view of the universe depends on it.",
+    speaker: "Francis Crick"
+  },
+  {
+    quote: "It is essential to understand our brains in some detail if we are to assess correctly our place in this vast and complicated universe we see all around us.",
+    speaker: "Francis Crick"
+  },
+  {
+    quote: "You have to dream before your dreams can come true.",
+    speaker: "A. P. J. Abdul Kalam"
+  },
+  {
+    quote: "When learning is purposeful, creativity blossoms. When creativity blossoms, thinking emanates. When thinking emanates, knowledge is fully lit. When knowledge is lit, economy flourishes.",
+    speaker: "A. P. J. Abdul Kalam"
+  },
+  {
+    quote: "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    speaker: "Swami Vivekananda"
+  },
+  {
+    quote: "The beauty of deep learning and scale is a kind of biological beauty. Just as the simplicity of evolution gives rise to incredible beauty and complexity in the natural world, so too does the simplicity of gradient descent on neural networks give rise to incredible beauty in machine learning.",
+    speaker: "Chris Olah"
+  },
+  {
+    quote: "Neural networks are full of beautiful structure, if only we care to look for it.",
+    speaker: "Chris Olah"
   }
 ];

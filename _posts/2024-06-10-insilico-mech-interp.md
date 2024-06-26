@@ -2,7 +2,7 @@
 layout: distill
 published: false
 title: Rundown of the <em>New Horizons in Language Science NSF Workshop<\em>
-description: Large Language Models, Language Structure, and the Cognitive and Neural Bases of Language!
+description: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language!
 date: 2024-06-02
 
 
@@ -26,19 +26,25 @@ _styles: >
 
 ---
 
-The [*New Horizons in Language Science Workshop*](https://newhorizonsinlanguagescience.github.io/) took place last month, organized by the National Science Foundation. I attended it and made some observations, so let's dive in!
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/levy.png class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-</div>
-
-<!-- copy over the notes I made from the conference and rearrange! -->
 
 **NOTE:**
 Citations, footnotes, and code blocks do not display correctly in the dark mode since distill does not support the dark mode by default.
 If you are interested in correctly adding dark mode support for distill, please open [a discussion](https://github.com/alshedivat/al-folio/discussions) and let us know.
+
+## Ideas
+
+### Encoding models
+
+The *in silico* models need not be black boxes anymore! Hence, we can make perturbations to the feature circuits and causally observe the effect on neural predictivity.
+
+### Decoding models
+
+Decoding takes the neural signal and tries to interpret what features it corresponds to.
+
+- interpret brain-predictive models?
+
+- fine-tune encoding models and then try to observe what gets activated in particular for any new signal?
 
 
 ## Equations
@@ -55,7 +61,6 @@ $$
 $$
 
 Note that MathJax 3 is [a major re-write of MathJax](https://docs.mathjax.org/en/latest/upgrading/whats-new-3.0.html) that brought a significant improvement to the loading and rendering speed, which is now [on par with KaTeX](http://www.intmath.com/cg5/katex-mathjax-comparison.php).
-
 
 ***
 

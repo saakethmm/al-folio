@@ -2,7 +2,7 @@
 layout: distill
 published: false
 title: Rundown of the <em>New Horizons in Language Science NSF Workshop<\em>
-description: Large Language Models, Language Structure, and the Cognitive and Neural Bases of Language!
+description: Large Language Models, Language Structure, and the Cognitive and Neural Basis of Language!
 date: 2024-06-02
 
 
@@ -25,16 +25,6 @@ _styles: >
   }
 
 ---
-
-The [*New Horizons in Language Science Workshop*](https://newhorizonsinlanguagescience.github.io/) took place last month, organized by the National Science Foundation. I attended it and made some observations, so let's dive in!
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% responsive_image path: assets/img/levy.png class: "img-fluid rounded z-depth-1" zoomable: true %}
-    </div>
-</div>
-
-<!-- copy over the notes I made from the conference and rearrange! -->
 
 **NOTE:**
 Citations, footnotes, and code blocks do not display correctly in the dark mode since distill does not support the dark mode by default.
