@@ -138,5 +138,17 @@ var quotes = [
   {
     quote: "Neural networks are full of beautiful structure, if only we care to look for it.",
     speaker: "Chris Olah"
+  },
+  {
+    quote: "Maybe happiness is this: not feeling like you should be elsewhere, doing something else, being someone else.",
+    speaker: "Isaac Asimov"
+  },
+  {
+    quote: "The true delight is in the finding out rather than in the knowing.",
+    speaker: "Isaac Asimov"
+  },
+  {
+    quote: "The most exciting phrase to hear in science, the one that heralds new discoveries, is not, 'Eureka! I've found it,' but, 'That's funny!...'",
+    speaker: "Isaac Asimov"
   }
 ];

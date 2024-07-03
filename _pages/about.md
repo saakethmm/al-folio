@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-👋🏽 Welcome to my website! My name is Saaketh and I'm an [MS in Machine Learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html) student at Carnegie Mellon University interested in the mechanisms of intelligence ([NeuroAI](https://www.nature.com/articles/s41467-023-37180-x)).
+👋🏽 Welcome to my website! My name is Saaketh and I'm an [MS in Machine Learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html) student at Carnegie Mellon University, working in [Leila Wehbe's group](http://www.cs.cmu.edu/~lwehbe/publications.html). 
 
 Currently, I'm particularly interested in understanding how language is understood and interpreted in the brain as well as in large language models (LLMs). This interest extends to topics such as [representational alignment](https://arxiv.org/pdf/2310.13018.pdf) and [mechanistic interpretability](https://www.neelnanda.io/mechanistic-interpretability/quickstart).
 
