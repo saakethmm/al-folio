@@ -11,7 +11,7 @@ comments: true # looks disgusting right now, need to fix this too...
 authors:
   - name: Saaketh Medepalli
 
-bibliography: 2024-06-23-distill.bib
+bibliography: 2024-06-23-intentions.bib
 ---
 
 ### Why this post?
@@ -40,7 +40,7 @@ Since the summer after my freshman year of college, I've been captivated by the 
 
   * With the advent of LLMs (Large Language Models) such as GPT-4, Claude-3.5, etc., we now have the best models of intelligence so far seen in human history. It's nice to think these models are just doing next-word prediction, but the representations learned go far, far deeper to be able to perform this simple task.
 
-Despite both fields somewhat diverging in their approaches (with AI especially becoming more engineering/product-driven), I think some of the **real** excitements will come at their intersection or *alignment* (NeuroAI!)<d-footnote> really the intersection between Cognitive Neuroscience and AI, which is where the level of comparison makes sense at this point in time (given deep learning really isn't biologically accurate, e.g., credit assignment problem <d-cite key="tang2022semantic"></d-cite>) </d-footnote>, some already well-known while others just some predictions I have <d-footnote> To be clear, I'm sure others have commented on these also, though this is just my spin on where things are headed in the future </d-footnote>
+Despite both fields somewhat diverging in their approaches (with AI especially becoming more engineering/product-driven), I think some of the **real** excitements will come at their intersection or *alignment* (NeuroAI!)<d-footnote> really the intersection between Cognitive Neuroscience and AI, which is where the level of comparison makes sense at this point in time (given deep learning really isn't biologically accurate, e.g., credit assignment problem <d-cite key="tang2022semantic"></d-cite>) </d-footnote>, some already well-known while others just some predictions I have <d-footnote> To be clear, others have commented on these also, though these are generally less mainstream and my predictions on where things are headed in the future </d-footnote>
 
 #### Neuroscience $\rightarrow$ AI
 
@@ -66,35 +66,32 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 * Though we've been treating neural networks as black boxes since their widespread adoption in 2012, recent work in interpretability (<d-cite key="templeton2024scaling"></d-cite>, <d-cite key="marks2024sparse"></d-cite>) has shattered this notion. Despite it being a work in progress, there are now clearer ways to reveal the role of circuits within the larger network.
 
-  * Combined with the first popular take above, this means we can intervene on the circuits in the neural networks to elicit some behavioral change, upon which we can observe the causal effect of this intervention on the brain predictivity.
+  * Combined with the first popular take above, this means we can intervene on the circuits in the neural networks to elicit some behavioral change, upon which we can observe the causal effect of this intervention on the brain predictivity (cite Grace Lindsay paper)
 
   * With enough brain data, we can directly train/fine-tune models to predict brain activity and peer into them using these methods. This line of work has already shown very cool results (<d-cite key="khosla2022high"></d-cite>, <d-cite key="luo2023braindiffusionvisualexploration"></d-cite>).
-
 
 #### AI $\leftrightarrow$ Neuroscience?
 
 But the story doesn't end there folks. There's a rising notion that the representations learned by artificial and biological neural networks are converging (<d-cite key="huh2024platonicrepresentationhypothesis"></d-cite>, <d-cite key="khosla2024privileged"></d-cite>). In other words, we're seeing some form of *representational alignment*.
 
-In my view, this idea, if shown to be valid, could have profound implications for a number of fields, including the cognitive sciences, neuroscience, and machine learning/AI. Just to give a taste, ...
+In my view, this idea, if shown to be valid, could have profound implications for a number of fields across science, not just cognitive science/neuroscience/AI. For instance, consider the question of how spoken words are perceived by humans/machines. If it were the case that the underlying representations are converging, this suggests that the high-level computations performed to get from language to comprehension are *also converging* <d-footnote> Note: not necessarily the mechanism by which this is implemented, since things like weight sharing or pooling may not exist in the brain</d-footnote> (this is a difficult point that I'll cover in a later blog post).
 
-Though the details are a lot more fuzzy and highly speculative, this could even connect to quantum mechanics and the role of the observer in the experiment, if we're able to better quantify what observation from a human's point of view actually means. 
-
- * quite significant, becomes it means that if we can interpret one, perhaps the other becomes apparent
+One fuzzy and highly speculative possibility is that if this convergence is accurate, there might be a unification with ideas from quantum mechanics, which currently has to deal with the [observer effect](https://en.wikipedia.org/wiki/Observer_effect_(physics)#Quantum_mechanics).  
 
 
 ### What are my important problems?
 
 Given this overview, where do I fit in?
 
-Though all domains are interesting and significant for the future, one that I find quite profound is language. The question is notoriously complex when broken down: how does a sound waveform entering our ears get translated into a coherent group of sounds that we interpret as a mode of communication (language)? To make matters more confusing, language occurs within our mind as thoughts, but how does this even happen?
+Though all domains are interesting and significant for the future, one that I find quite interesting right now is language. The question is notoriously complex when broken down: how does a sound waveform entering our ears get translated into a coherent group of sounds that we interpret as a mode of communication (language)? To make matters more confusing, language occurs within our mind as thoughts, but how does this even happen (i.e., mind-body problem)?
 
-That all being said, the challenge is what makes the problem interesting to tackle. In addition, with my background in signal processing and machine learning, I believe I have the toolkit (attack) necessary for the task. Coupled with the rapid advancements in speech/language models along with interpretability research (angle), I think there is no better time to work on this problem.
+That all being said, the challenge is what makes the problem interesting to tackle. In addition, with my background in computational neuroscience, signal processing and machine learning, I believe I have the toolkit (attack) necessary for the task. Coupled with the rapid advancements in speech/language models along with interpretability research (angle), I think there is no better time to work on this problem.
 
 There's tremendous value from this direction of research too. Philosophically, this question goes to the root of the mind-body problem (in both machines and humans). This direction can also help distinguish the intelligence of deep learning-based models and that of humans. In terms of applications, we might be able to create better AI systems that align more with the behavior of human language processing, along with better ways to understand human thinking that could be useful in domains like education, law, etc.
 
 #### Future of Blog
 
-I think this is a very exciting time to be in this field, and I'm looking forward to being a part of what's to come. Here's some I things I'm planning that you can expect to see:
+I think this is a very exciting time to be in this field, and I'm looking forward to being a part of what's to come. Here's some I things I'm planning that you can expect to see on the blog:
 
 * There's few different ideas I'm toying with right now. In the future, I'll make each of these into its own blog post as I make more progress and hopefully share some cool results!
 
@@ -112,7 +109,7 @@ I think this is a very exciting time to be in this field, and I'm looking forwar
 
 3. Mechanistic interpretability has been making waves in recent years for striving to peer inside the black box of deep neural networks. It's still a work in progress, but results involving the ability to steer LLMs to behave in different ways (link to Anthropic paper) along with the identification of circuits that have a causal role in specific behaviors (insert Bau citation) are too convincing to ignore. By tweaking LMs in a systematic way, can we use encoding models methods to elucidate the causal mechanisms behind language processing in the brain/mind? -->
 
-Stay tuned!
+Overall, I'm hoping to post something weekly to biweekly. Stay tuned!
 
 
 #### Post-credits Note: *Why does any of this even matter? AGI is coming soon anyways, right?*
