@@ -65,7 +65,7 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 #### *My Predictions*
 
-* Though we've been treating neural networks as black boxes since their widespread adoption in 2012, recent work in interpretability  has shattered this notion <d-cite key="templeton2024scaling"></d-cite> <d-cite key="marks2024sparse"></d-cite>. Despite it being a work in progress, there are now clearer ways to reveal the role of circuits within the larger network.
+* Though we've been treating neural networks as black boxes since their widespread adoption in 2012, recent work in interpretability  has shattered this notion <d-cite key="templeton2024scaling"></d-cite> <d-cite key="marks2024sparsefeaturecircuitsdiscovering"></d-cite>. Despite it being a work in progress, there are now clearer ways to reveal the role of circuits within the larger network.
 
   * Combined with the first popular take above, this means we can intervene on the circuits in the neural networks to elicit some behavioral change, upon which we can observe the causal effect of this intervention on the brain predictivity <d-cite key="lindsay2023groundingneurosciencebehavioralchanges"></d-cite>.
 
