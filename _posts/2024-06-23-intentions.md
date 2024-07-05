@@ -33,13 +33,13 @@ Since the summer after my freshman year of college, I've been captivated by the 
 
 1. The human brain is one of the most complex pieces of matter created by nature and understanding how it enables different behaviors can allow us to treat mental afflictions such as addiction, depression & anxiety and also enhance the human mind.
 
-  * It will help us more deeply understand the universe through ties to several other fields (e.g., elucidating the role of the observer in the experiment from the quantum mechanical perspective).
+   * It will help us more deeply understand the universe through ties to several other fields (e.g., elucidating the role of the observer in the experiment from the quantum mechanical perspective).
 
-  * On a side note, I have a (perhaps naïve) optimism that revealing some of the brain/mind's mysteries will have an extensive social impact as well, just by virtue of understanding ourselves further.
+   * On a side note, I have a (perhaps naïve) optimism that revealing some of the brain/mind's mysteries will have an extensive social impact as well, just by virtue of understanding ourselves further.
 
 2. AI (more specifically deep learning) is undisputedly the most disruptive tool right now with the rise of data/compute. It has the potential to make tremendous impact on society (and already has in some ways... ahem Copilot <d-footnote> I promise I didn't use an LLM/Copilot to write this, though it was tempting</d-footnote>).
 
-  * With the advent of LLMs (Large Language Models) such as GPT-4, Claude-3.5, etc., we now have the best models of intelligence so far seen in human history. It's nice to think these models are just doing next-word prediction, but the representations learned go far, far deeper to be able to perform this simple task.
+   * With the advent of LLMs (Large Language Models) such as GPT-4, Claude-3.5, etc., we now have the best models of intelligence so far seen in human history. It's nice to think these models are just doing next-word prediction, but the representations learned go far, far deeper to be able to perform this simple task.
 
 Despite both fields somewhat diverging in their approaches (with AI especially becoming more engineering/product-driven), I think some of the **real** excitements will come at their intersection or *alignment* (NeuroAI!)<d-footnote> really the intersection between Cognitive Neuroscience and AI, which is where the level of comparison makes sense at this point in time (given deep learning really isn't biologically accurate, e.g., credit assignment problem <d-cite key="richards2019dendritic"></d-cite>) </d-footnote>, some already well-known while others just some predictions I have <d-footnote> To be clear, others have commented on these also, though these are generally less mainstream and my predictions on where things are headed in the future </d-footnote>
 
@@ -47,7 +47,7 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 #### *Popular Takes*
 
-* Historical influence in building model architectures (e.g., Perceptron, Neocognitron, CNN, Attention mechanism <d-footnote>at least at a high level, if we define it as a [flexible mechanism for controlling limited computational resources] <d-cite key="lindsay2021attention"></d-cite> </d-footnote>) and potential for future contributions.
+* Historical influence in building model architectures (e.g., Perceptron, Neocognitron, CNN, Attention mechanism <d-footnote>at least at a high level, if we define it as a flexible mechanism for controlling limited computational resources <d-cite key="lindsay2021attention"></d-cite> </d-footnote>) and potential for future contributions.
 
 * The "AGI" Standard to which intelligence of models is held. Human brain is the demarcating line between low-level and super intelligence.
 
