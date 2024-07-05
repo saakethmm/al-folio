@@ -10,11 +10,12 @@ comments: true # looks disgusting right now, need to fix this too...
 
 authors:
   - name: Saaketh Medepalli
+    affiliations: Carnegie Mellon University
 
 bibliography: 2024-06-23-intentions.bib
 ---
 
-### Why this post?
+## Why this post?
 
 Inspired by Richard Hamming's famous talk, ["You and Your Research"](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html), I've been thinking about what the most important questions to ask are.
 
@@ -22,7 +23,7 @@ The way he phrases the question is also quite interesting, in the sense that it'
 
 Instead (from my interpretation) the best questions one can ask are subjective to the individual, specifically those where the individual has a good angle of attack to answer the question. In other words, one person's most important questions might not match another's (which has the broader implication that blindly following someone else's research because they are passionate about it doesn't mean you will be too - everyone needs to think carefully about their own skillsets and inclinations!).
 
-### So, what are my intentions?
+## So, what are my intentions?
 
 With this in mind, I want to lay out some of my core interests and some specific questions I'm currently investigating and hope to investigate in the future. I've also recently decided to apply for a PhD rather than go to industry after my MS (a topic for another post!), and I think it's important to have a clear idea of what I want to do and why I want to do it.
 
@@ -42,27 +43,27 @@ Since the summer after my freshman year of college, I've been captivated by the 
 
 Despite both fields somewhat diverging in their approaches (with AI especially becoming more engineering/product-driven), I think some of the **real** excitements will come at their intersection or *alignment* (NeuroAI!)<d-footnote> really the intersection between Cognitive Neuroscience and AI, which is where the level of comparison makes sense at this point in time (given deep learning really isn't biologically accurate, e.g., credit assignment problem <d-cite key="richards2019dendritic"></d-cite>) </d-footnote>, some already well-known while others just some predictions I have <d-footnote> To be clear, others have commented on these also, though these are generally less mainstream and my predictions on where things are headed in the future </d-footnote>
 
-#### Neuroscience $\rightarrow$ AI
+### Neuroscience $\rightarrow$ AI
 
-##### *Popular Takes*
+#### *Popular Takes*
 
 * Historical influence in building model architectures (e.g., Perceptron, Neocognitron, CNN, Attention mechanism <d-footnote>at least at a high level, if we define it as a [flexible mechanism for controlling limited computational resources]: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2020.00029/full</d-footnote>) and potential for future contributions.
 
 * The "AGI" Standard to which intelligence of models is held. Human brain is the demarcating line between low-level and super intelligence.
 
-##### *My Predictions*
+#### *My Predictions*
 
 * The purpose of these models is for augmenting human capabilities (though inevitably replacing for more mundane tasks), so learning interactions with these models will be of tremendous value. Understanding our own minds is still a necessary endeavor that will be vital for future AI-human interactions and BMI (brain-machine interfaces <d-footnote> Not to be confused with body-mass index </d-footnote>).
 
-#### AI $\rightarrow$ Neuroscience
+### AI $\rightarrow$ Neuroscience
 
-##### *Popular Takes*
+#### *Popular Takes*
 
 * Language and vision models based on deep learning (e.g., Transformers for language, CNNs for vision) have proved to be the best models so far successful (<d-cite key="antonello2024scalinglawslanguageencoding"></d-cite>, <d-cite key="margalit2024unifying"></d-cite>) in predicting held-out brain activity.
 
 * By optimizing solutions for certain tasks across domains (e.g., object inpainting (CV), next-word prediction (NLP), robot stepping up a stair (robotics), etc.), representations to address those tasks will continue to improve and perhaps converge onto the brain (<d-cite key="hermann2023human"></d-cite>)
 
-##### *My Predictions*
+#### *My Predictions*
 
 * Though we've been treating neural networks as black boxes since their widespread adoption in 2012, recent work in interpretability (<d-cite key="templeton2024scaling"></d-cite>, <d-cite key="marks2024sparse"></d-cite>) has shattered this notion. Despite it being a work in progress, there are now clearer ways to reveal the role of circuits within the larger network.
 
@@ -70,7 +71,7 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
   * With enough brain data, we can directly train/fine-tune models to predict brain activity and peer into them using these methods. This line of work has already shown very cool results (<d-cite key="khosla2022high"></d-cite>, <d-cite key="luo2023braindiffusionvisualexploration"></d-cite>).
 
-#### AI $\leftrightarrow$ Neuroscience?
+### AI $\leftrightarrow$ Neuroscience?
 
 But the story doesn't end there folks. There's a rising notion that the representations learned by artificial and biological neural networks are converging (<d-cite key="huh2024platonicrepresentationhypothesis"></d-cite>, <d-cite key="khosla2024privileged"></d-cite>). In other words, we're seeing some form of *representational alignment*.
 
@@ -78,7 +79,7 @@ In my view, this idea, if shown to be valid, could have profound implications fo
 
 One fuzzy and highly speculative possibility is that if this convergence is accurate, there might be a unification with ideas from quantum mechanics, which currently has to deal with the [observer effect](https://en.wikipedia.org/wiki/Observer_effect_(physics)#Quantum_mechanics). Perhaps if the theory of what exactly an observer is observing is solidified, advances can be made on this front.
 
-### What are my important problems?
+## What are my important problems?
 
 Given this overview, where do I fit in?
 
@@ -92,7 +93,7 @@ There's tremendous value from this direction of research too. Philosophically, t
 
 Crucially, better understanding the mechanism of language processing can also help us work towards improvements in standards of living for those people with disabilities, such as aphasia or dyslexia.
 
-#### Future of Blog
+## Future of Blog
 
 I think this is a very exciting time to be in this field, and I'm looking forward to being a part of what's to come. Here's some I things I'm planning that you can expect to see on the blog:
 
