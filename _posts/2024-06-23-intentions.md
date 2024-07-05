@@ -31,13 +31,13 @@ Since the summer after my freshman year of college, I've been captivated by the 
 
 *Why?* Two simple reasons:
 
-* The human brain is one of the most complex pieces of matter created by nature and understanding how it enables different behaviors can allow us to treat mental afflictions such as addiction, depression & anxiety and also enhance the human mind.
+1. The human brain is one of the most complex pieces of matter created by nature and understanding how it enables different behaviors can allow us to treat mental afflictions such as addiction, depression & anxiety and also enhance the human mind.
 
   * It will help us more deeply understand the universe through ties to several other fields (e.g., elucidating the role of the observer in the experiment from the quantum mechanical perspective).
 
   * On a side note, I have a (perhaps naïve) optimism that revealing some of the brain/mind's mysteries will have an extensive social impact as well, just by virtue of understanding ourselves further.
 
-* AI (more specifically deep learning) is undisputedly the most disruptive tool right now with the rise of data/compute. It has the potential to make tremendous impact on society (and already has in some ways... ahem Copilot <d-footnote> I promise I didn't use an LLM/Copilot to write this, though it was tempting</d-footnote>).
+2. AI (more specifically deep learning) is undisputedly the most disruptive tool right now with the rise of data/compute. It has the potential to make tremendous impact on society (and already has in some ways... ahem Copilot <d-footnote> I promise I didn't use an LLM/Copilot to write this, though it was tempting</d-footnote>).
 
   * With the advent of LLMs (Large Language Models) such as GPT-4, Claude-3.5, etc., we now have the best models of intelligence so far seen in human history. It's nice to think these models are just doing next-word prediction, but the representations learned go far, far deeper to be able to perform this simple task.
 
@@ -47,7 +47,7 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 #### *Popular Takes*
 
-* Historical influence in building model architectures (e.g., Perceptron, Neocognitron, CNN, Attention mechanism <d-footnote>at least at a high level, if we define it as a [flexible mechanism for controlling limited computational resources]: https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2020.00029/full</d-footnote>) and potential for future contributions.
+* Historical influence in building model architectures (e.g., Perceptron, Neocognitron, CNN, Attention mechanism <d-footnote>at least at a high level, if we define it as a [flexible mechanism for controlling limited computational resources] <d-cite key="lindsay2021attention"></d-cite> </d-footnote>) and potential for future contributions.
 
 * The "AGI" Standard to which intelligence of models is held. Human brain is the demarcating line between low-level and super intelligence.
 
@@ -59,21 +59,21 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 #### *Popular Takes*
 
-* Language and vision models based on deep learning (e.g., Transformers for language, CNNs for vision) have proved to be the best models so far successful in predicting held-out brain activity <d-cite key="antonello2024scalinglawslanguageencoding"></d-cite>, <d-cite key="margalit2024unifying"></d-cite>.
+* Language and vision models based on deep learning (e.g., Transformers for language, CNNs for vision) have proved to be the best models so far successful in predicting held-out brain activity <d-cite key="antonello2024scalinglawslanguageencoding"></d-cite> <d-cite key="margalit2024unifying"></d-cite>.
 
 * By optimizing solutions for certain tasks across domains (e.g., object inpainting (CV), next-word prediction (NLP), robot stepping up a stair (robotics), etc.), representations to address those tasks will continue to improve and perhaps converge onto the brain <d-cite key="hermann2023human"></d-cite>.
 
 #### *My Predictions*
 
-* Though we've been treating neural networks as black boxes since their widespread adoption in 2012, recent work in interpretability  has shattered this notion <d-cite key="templeton2024scaling"></d-cite>, <d-cite key="marks2024sparse"></d-cite>. Despite it being a work in progress, there are now clearer ways to reveal the role of circuits within the larger network.
+* Though we've been treating neural networks as black boxes since their widespread adoption in 2012, recent work in interpretability  has shattered this notion <d-cite key="templeton2024scaling"></d-cite> <d-cite key="marks2024sparse"></d-cite>. Despite it being a work in progress, there are now clearer ways to reveal the role of circuits within the larger network.
 
   * Combined with the first popular take above, this means we can intervene on the circuits in the neural networks to elicit some behavioral change, upon which we can observe the causal effect of this intervention on the brain predictivity <d-cite key="lindsay2023groundingneurosciencebehavioralchanges"></d-cite>.
 
-  * With enough brain data, we can directly train/fine-tune models to predict brain activity and peer into them using these methods. This line of work has already shown very cool results <d-cite key="khosla2022high"></d-cite>, <d-cite key="luo2023braindiffusionvisualexploration"></d-cite>.
+  * With enough brain data, we can directly train/fine-tune models to predict brain activity and peer into them using these methods. This line of work has already shown very cool results <d-cite key="khosla2022high"></d-cite> <d-cite key="luo2023braindiffusionvisualexploration"></d-cite>.
 
 ### AI $\leftrightarrow$ Neuroscience?
 
-But the story doesn't end there folks. There's a rising notion that the representations learned by artificial and biological neural networks are converging <d-cite key="huh2024platonicrepresentationhypothesis"></d-cite>, <d-cite key="khosla2024privileged"></d-cite>. In other words, we're seeing some form of *representational alignment*.
+But the story doesn't end there folks. There's a rising notion that the representations learned by artificial and biological neural networks are converging <d-cite key="huh2024platonicrepresentationhypothesis"></d-cite> <d-cite key="khosla2024privileged"></d-cite>. In other words, we're seeing some form of *representational alignment*.
 
 In my view, this idea, if shown to be valid, could have profound implications for a number of fields across science, not just cognitive science/neuroscience/AI. For instance, consider the question of how spoken words are perceived by humans/machines. If it were the case that the underlying representations are converging, this suggests that the high-level computations performed to get from language to comprehension are *also converging* (since the representations are the medium over which the computations occur) <d-footnote> Note: not necessarily the mechanism by which this is implemented, since things like weight sharing or pooling may not exist in the brain </d-footnote> (this is a difficult point that I'll cover in a later blog post).
 
