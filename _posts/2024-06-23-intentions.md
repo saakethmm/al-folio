@@ -2,7 +2,7 @@
 layout: distill
 published: true
 title:  Me and My Research
-date:   2024-06-23
+date:   2024-07-03
 description: Why am I doing what I'm doing?
 tags: personal, AI, neuroscience
 categories: general
@@ -10,7 +10,8 @@ comments: true # looks disgusting right now, need to fix this too...
 
 authors:
   - name: Saaketh Medepalli
-    affiliations: Carnegie Mellon University
+    affiliations: 
+      name: Machine Learning Department, Carnegie Mellon University
 
 bibliography: 2024-06-23-intentions.bib
 ---
@@ -106,7 +107,7 @@ I think this is a very exciting time to be in this field, and I'm looking forwar
 
 * A deep dive into certain papers which I find especially worth digging into, along with their implications for the broader field.
 
-* Inspired by Patrick Mineault's work at the [NeuroAI Archive](https://www.neuroai.science/archive), I'll post paper bundles (summary of 4-5 papers) around some topic?
+* Inspired by Patrick Mineault's work at the [NeuroAI Archive](https://www.neuroai.science/archive), I'll post paper bundles (summary of 4-5 papers) around some topic
 
 * Workshop/conference reviews
 
