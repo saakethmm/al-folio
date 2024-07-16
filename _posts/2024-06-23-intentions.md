@@ -1,7 +1,7 @@
 ---
 layout: distill
 published: true
-title:  Intentions for the Future
+title:  Me and My Research
 date:   2024-06-23
 description: Why am I doing what I'm doing?
 tags: personal, AI, neuroscience
@@ -83,15 +83,20 @@ One fuzzy and highly speculative possibility is that if this convergence is accu
 
 Given this overview, where do I fit in?
 
-Though all domains are interesting and significant for the future, one that I find myself drawn to right now is language. The question is notoriously complex when broken down: how does a sound waveform entering our ears get translated into a coherent group of sounds that we interpret as a mode of communication (language)? To make matters more confusing, this language takes place in our mind as thoughts, but how does this even happen (i.e., mind-body problem)?
+Though all domains are interesting and significant for the future, one that I find myself drawn to right now is language. The question is notoriously complex when broken down: how do air vibrations entering our ears get translated into a coherent group of sounds that we interpret as a mode of communication (language)? To make matters more confusing, this language takes place in our mind as thoughts, but how does this even happen (i.e., mind-body problem)?
 
 To be more specific, the problem I want to tackle is deciphering the mechanism of auditory/language processing, using deep learning models as a means to get there.
 
-With my background in computational neuroscience, signal processing and machine learning, I believe I have the toolkit (attack) necessary for the task. Coupled with the rapid advancements in speech/language models along with interpretability research (angle), I think there is no better time to work on this problem.
+With my background in computational neuroscience, signal processing and machine learning, I believe I have the toolkit (attack) necessary for the task. Coupled with the rapid advancements in language models along with interpretability research (angle), I think there is no better time to work on this problem.
 
-There's tremendous value from this direction of research too. Philosophically, these question goes to the root of the mind-body problem (in both machines and humans). This direction can also help distinguish the intelligence of deep learning-based models from that of humans. In terms of applications, we might be able to create better AI systems that align more with the behavior of humans, along with better ways of understanding human thinking that could be useful in domains like education, law, and society at large.
+There's tremendous value from this direction of research too. Philosophically, this question goes to the root of the mind-body problem (in both machines and humans). This direction can also help distinguish the intelligence of deep learning-based models from that of humans. In terms of applications, we might be able to create better AI systems that align more with the behavior of humans, along with better ways of understanding human thinking that could be useful in domains like education, law, and society at large.
 
 Crucially, better understanding the mechanism of language processing can also help us work towards improvements in standards of living for those people with disabilities, such as aphasia or dyslexia.
+
+
+## Conclusion
+
+<!-- describe why this is useful exercise and reader should do it too-->
 
 ## Future of Blog
 
@@ -99,7 +104,7 @@ I think this is a very exciting time to be in this field, and I'm looking forwar
 
 * There's few different projects I'm toying with right now. In the future, I'll make each of these into its own blog post as I make more progress (and hopefully share some cool results)!
 
-* A deep dive into certain papers which I find especially worth diggint into, along with its implications for the broader field.
+* A deep dive into certain papers which I find especially worth digging into, along with their implications for the broader field.
 
 * Inspired by Patrick Mineault's work at the [NeuroAI Archive](https://www.neuroai.science/archive), I'll post paper bundles (summary of 4-5 papers) around some topic?
 
