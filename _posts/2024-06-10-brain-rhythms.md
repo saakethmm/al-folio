@@ -33,6 +33,6 @@ We can construct sequences (at the MEG sampling rate) of high-dimensional embedd
 Interestingly (citing Frank & Yang), this approach actually works in replicating the results from the Ding et al. paper, *without* even using any of the constraints of the experiment design (i.e., didn't use the fact that some settings had sentences, others just arbitrary nouns put together)
 
 
-### Idea
+### Um... if I'm an AI person, why should I care?
 
-What if we allow the data to speak for itself? 
+The brain is still the true benchmark for AGI in terms of capabilities. We'd be wise to turn to the algorithms and structures learned by the brain as a reference to see how to improve AI systems, including LLMs, to improve their performance (and perhaps also for AI alignment). 

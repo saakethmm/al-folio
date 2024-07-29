@@ -16,8 +16,6 @@ authors:
 bibliography: 2024-06-23-intentions.bib
 ---
 
-## Why this post?
-
 Inspired by Richard Hamming's famous talk, ["You and Your Research"](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html), I've been thinking about what the most important questions to ask are.
 
 The way he phrases the question is also quite interesting, in the sense that it's not just what is generally thought to be the most lucrative problems to solve (which might include things like time machines, a unified theory of physics, teleportation, telepathy (though some progress has been made here! <d-cite key="tang2022semantic"></d-cite>) or the mind-body problem/hard problem of consciousness).
@@ -95,10 +93,6 @@ There's tremendous value from this direction of research too. Philosophically, t
 Crucially, better understanding the mechanism of language processing can also help us work towards improvements in standards of living for those people with disabilities, such as aphasia or dyslexia.
 
 
-## Conclusion
-
-<!-- describe why this is useful exercise and reader should do it too-->
-
 ## Future of Blog
 
 I think this is a very exciting time to be in this field, and I'm looking forward to being a part of what's to come. Here's some I things I'm planning that you can expect to see on the blog:
@@ -122,8 +116,12 @@ I think this is a very exciting time to be in this field, and I'm looking forwar
 Overall, I'm hoping to post something weekly to biweekly. Stay tuned!
 
 
-<!-- #### Post-credits Note: *Why does any of this even matter? AGI is coming soon anyways, right?*
+<!-- #### (Another blog) *Why does any of this even matter? AGI is coming soon anyways, right? Wouldn't this be able to solve our problem?*
 
 A community in Silicon Valley are noting the possibility of human-level intelligence in the next few years, as we continue to scale foundation models with more data and compute. This is a whole other topic for another time, but to keep it short and sweet I'm quite skeptical of this claim, if not for the sole reason that everyone needs to clarify what precisely is meant by human-level intelligence (all AI people care about is Turing test across multiple domains, ... don't know if I'm on board with this). One of the best ways to do that is to more closely inspect the principles underlying intelligence, which is a natural result of representational alignment.
 
-But let's suppose all of the AI doomers are correct and we have "superintelligent" AI (ASI) within the next five years or so (insert citation regarding this claim). *Even if* this is the case, humans aren't going anywhere. In fact, I'd argue more than ever how crucial it is to understand ourselves...   -->
+But let's suppose all of the AI doomers are correct and we have "superintelligent" AI (ASI) within the next five years or so (insert citation regarding this claim). *Even if* this is the case, humans aren't going anywhere. 
+
+Given the right data (e.g., fMRI/MEG), it does seem plausible that an advanced AI enough will be able to read from literature and propose new experiments and do those experiments which can then advance cognitive neuroscience... Taking insights from the brain might help
+
+-->
