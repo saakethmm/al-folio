@@ -20,17 +20,21 @@ The setting for this debate is brain rhythms, which are a result of patterns of 
 
 <!-- insert picture of task and key result-->
 
-
+ 
 ### What are brain rhythms?
 
 explain...
+
+Brain rhythms such as the theta and alpha bands tend to be associated with the feeling of relaxation after meditation, hot shower, spa, etc. If this is truly the mechanism by which the brain is enabling these cognitive phenomena, why are these also present during other cognitive states such as language processing. What is their overall function?
 
 
 ### Huh? What does frequency have to do with word embeddings?
 
 We can construct sequences (at the MEG sampling rate) of high-dimensional embeddings of the words in the stimulus set. Like word2vec, embeddings that are close in space imply the inputs also occur in similar contexts.
 
-Interestingly (citing Frank & Yang), this approach actually works in replicating the results from the Ding et al. paper, *without* even using any of the constraints of the experiment design (i.e., didn't use the fact that some settings had sentences, others just arbitrary nouns put together)
+Interestingly (citing Frank & Yang), this approach actually works in replicating the results from the Ding et al. paper, *without* even using any of the constraints of the experiment design (i.e., didn't use the fact that some settings had sentences, others just arbitrary nouns put together).
+
+The fact that we see word embeddings and their spectrograms able to predict activity in language areas in the theta band is curious. What is the delta band activated by? Do these spectrograms have meaning? Can we learn this??
 
 
 ### Um... if I'm an AI person, why should I care?

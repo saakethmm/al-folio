@@ -2,7 +2,7 @@
 layout: distill
 published: true
 title:  Me and My Research
-date:   2024-07-03
+date:   2024-08-18
 description: Why am I doing what I'm doing?
 tags: personal, AI, neuroscience
 categories: general
@@ -24,7 +24,7 @@ Instead (from my interpretation) the best questions one can ask are subjective t
 
 ## So, what are my intentions?
 
-With this in mind, I want to lay out some of my core interests and some specific questions I'm currently investigating and hope to investigate in the future. I've also recently decided to apply for a PhD rather than go to industry after my MS (a topic for another post!), and I think it's important to have a clear idea of what I want to do and why I want to do it.
+With this in mind, I want to lay out some of my core interests and some specific questions I'm currently investigating and hope to investigate in the future. At the core, I think it's important to have a clear idea of what I want to do and why I want to do it.
 
 Since the summer after my freshman year of college, I've been captivated by the fields of neuroscience and AI.
 
@@ -44,7 +44,7 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 ### Neuroscience $\rightarrow$ AI
 
-#### *Popular Takes*
+#### *Popular Takes* 
 
 * Historical influence in building model architectures (e.g., Perceptron, Neocognitron, CNN, Attention mechanism <d-footnote>at least at a high level, if we define it as a flexible mechanism for controlling limited computational resources <d-cite key="lindsay2021attention"></d-cite> </d-footnote>) and potential for future contributions.
 
@@ -74,38 +74,35 @@ Despite both fields somewhat diverging in their approaches (with AI especially b
 
 But the story doesn't end there folks. There's a rising notion that the representations learned by artificial and biological neural networks are converging <d-cite key="huh2024platonicrepresentationhypothesis"></d-cite> <d-cite key="khosla2024privileged"></d-cite>. In other words, we're seeing some form of *representational alignment*.
 
-In my view, this idea, if shown to be valid, could have profound implications for a number of fields across science, not just cognitive science/neuroscience/AI. For instance, consider the question of how spoken words are perceived by humans/machines. If it were the case that the underlying representations are converging, this suggests that the high-level computations performed to get from language to comprehension are *also converging* (since the representations are the medium over which the computations occur) <d-footnote> Note: not necessarily the mechanism by which this is implemented, since things like weight sharing or pooling may not exist in the brain </d-footnote> (this is a difficult point that I'll cover in a later blog post).
+In my view, this idea, if shown to be valid, could have profound implications for a number of fields across science, not just cognitive science/neuroscience/AI. For instance, consider the question of how spoken words are perceived by humans/machines. If it were the case that the underlying representations are converging, this suggests that the high-level computations performed to get from language to comprehension are *also converging* (since the representations are the medium over which the computations occur) <d-footnote> Note: not necessarily the mechanism by which this is implemented, since things like weight sharing or pooling may not exist in the brain </d-footnote>. 
 
 One fuzzy and highly speculative possibility is that if this convergence is accurate, there might be a unification with ideas from quantum mechanics, which currently has to deal with the [observer effect](https://en.wikipedia.org/wiki/Observer_effect_(physics)#Quantum_mechanics). Perhaps if the theory of what exactly an observer is observing is solidified, advances can be made on this front.
 
 ## What are my important problems?
 
-Given this overview, where do I fit in?
+Though all domains are interesting and significant for the future, one that I find myself drawn to right now is language. The question is notoriously complex when broken down: how do air vibrations entering our ears get translated into a coherent group of sounds that we interpret as language? To make matters more confusing, this language takes place in our mind as thoughts, but how does this even happen (i.e., mind-body problem)?
 
-Though all domains are interesting and significant for the future, one that I find myself drawn to right now is language. The question is notoriously complex when broken down: how do air vibrations entering our ears get translated into a coherent group of sounds that we interpret as a mode of communication (language)? To make matters more confusing, this language takes place in our mind as thoughts, but how does this even happen (i.e., mind-body problem)?
+Due to the rapid advancements in language models along with interpretability research, it is indeed an interesting time to be studying how LLMs process language and how that compares to the mechanisms by which the brain processes language. Discovering some shared principles could be fruitful to neuroscience research along with building more human-aligned, interpretable AI systems. Of course, there are also interesting philosophical implications as this direction of inquiry pokes at the mind-body problem.
 
-To be more specific, the problem I want to tackle is deciphering the mechanism of auditory/language processing, using deep learning models as a means to get there.
-
-With my background in computational neuroscience, signal processing and machine learning, I believe I have the toolkit (attack) necessary for the task. Coupled with the rapid advancements in language models along with interpretability research (angle), I think there is no better time to work on this problem.
-
-There's tremendous value from this direction of research too. Philosophically, this question goes to the root of the mind-body problem (in both machines and humans). This direction can also help distinguish the intelligence of deep learning-based models from that of humans. In terms of applications, we might be able to create better AI systems that align more with the behavior of humans, along with better ways of understanding human thinking that could be useful in domains like education, law, and society at large.
-
-Crucially, better understanding the mechanism of language processing can also help us work towards improvements in standards of living for those people with disabilities, such as aphasia or dyslexia.
-
+<!-- Crucially, better understanding the mechanism of language processing can also help us work towards improvements in standards of living for those people with disabilities, such as aphasia or dyslexia. -->
 
 ## Future of Blog
 
-I think this is a very exciting time to be in this field, and I'm looking forward to being a part of what's to come. Here's some I things I'm planning that you can expect to see on the blog:
+I think this is an exciting time to be in the field, and I'm looking forward to what's to come! On this note, I'm planning to start a new series called *All Things Aligning*, which will be a set of blog posts aimed at exploring topics within the realm of representational alignment between AI and neuroscience. Each part will take one topic and distill key papers in that area, split across artificial and natural intelligence, with the goal of conveying useful lessons and ideas to the audience. There'll be some math, code, pictures, and hopefully a lot of excitement along the journey as we figure what's really going on!
 
-* There's few different projects I'm toying with right now. In the future, I'll make each of these into its own blog post as I make more progress (and hopefully share some cool results)!
+Here's a list of topics that I'll touch on at some point along the way:
 
-* A deep dive into certain papers which I find especially worth digging into, along with their implications for the broader field.
+* Terminology: Representations, Features, Tasks, etc. <!-- What are features/representations anyways? (word2vec discussion, etc. do same for vision, robotics) -->
+* Representation Learning  <!-- What features are learned? During training, what is really going on? (grokking paper, mechanistic analysis of training process) -->
+* Foundation Models <!-- Past-transformers (Can we improve them to be more useful?), Flash Attention, MoE to gating information? Similarly, JEPA for vision, other RL models -->
+* Interpreting Representations <!-- Interpretability techniques -->
+* Editing Representations <!-- Model Editing -->
+* Alignment Metrics  <!-- Predictivity (regression), RSA, etc. -->
+* Improving Alignment <!-- Better tasks (Aran's work), Flash Attention, etc. MoE approach to gating information -->
+* Human-AI Alignment <!-- RLHF, DPO, PPO -->
+* ... and much more!
 
-* Inspired by Patrick Mineault's work at the [NeuroAI Archive](https://www.neuroai.science/archive), I'll post paper bundles (summary of 4-5 papers) around some topic
-
-* Workshop/conference reviews
-
-* Other Reflections
+I'm hoping to post biweekly. Stay tuned for the introduction *All Things Aligning: Wait what's happening?* <!-- Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
 
 <!-- 1. Brain rhythms seem to play a crucial role in chunking the sounds we hear into language. Can we elucidate this mechanism using speech/language models (building on top of the notion that when the task to be solved is the same, the representations/mechanisms begin aligning across artificial and natural systems)?
 
@@ -113,15 +110,3 @@ I think this is a very exciting time to be in this field, and I'm looking forwar
 
 3. Mechanistic interpretability has been making waves in recent years for striving to peer inside the black box of deep neural networks. It's still a work in progress, but results involving the ability to steer LLMs to behave in different ways (link to Anthropic paper) along with the identification of circuits that have a causal role in specific behaviors (insert Bau citation) are too convincing to ignore. By tweaking LMs in a systematic way, can we use encoding models methods to elucidate the causal mechanisms behind language processing in the brain/mind? -->
 
-Overall, I'm hoping to post something weekly to biweekly. Stay tuned!
-
-
-<!-- #### (Another blog) *Why does any of this even matter? AGI is coming soon anyways, right? Wouldn't this be able to solve our problem?*
-
-A community in Silicon Valley are noting the possibility of human-level intelligence in the next few years, as we continue to scale foundation models with more data and compute. This is a whole other topic for another time, but to keep it short and sweet I'm quite skeptical of this claim, if not for the sole reason that everyone needs to clarify what precisely is meant by human-level intelligence (all AI people care about is Turing test across multiple domains, ... don't know if I'm on board with this). One of the best ways to do that is to more closely inspect the principles underlying intelligence, which is a natural result of representational alignment.
-
-But let's suppose all of the AI doomers are correct and we have "superintelligent" AI (ASI) within the next five years or so (insert citation regarding this claim). *Even if* this is the case, humans aren't going anywhere. 
-
-Given the right data (e.g., fMRI/MEG), it does seem plausible that an advanced AI enough will be able to read from literature and propose new experiments and do those experiments which can then advance cognitive neuroscience... Taking insights from the brain might help
-
--->
