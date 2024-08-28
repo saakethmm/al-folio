@@ -102,7 +102,7 @@ Here's a list of topics that I'll touch on at some point along the way:
 * Human-AI Alignment <!-- RLHF, DPO, PPO -->
 * ... and much more!
 
-I'm hoping to post biweekly. Stay tuned for the introduction *All Things Aligning: Wait what's happening?* <!-- Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
+I'm hoping to post biweekly. Stay tuned for the introduction *All Things Aligning: Getting up to speed* <!-- re-aligned on Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
 
 <!-- 1. Brain rhythms seem to play a crucial role in chunking the sounds we hear into language. Can we elucidate this mechanism using speech/language models (building on top of the notion that when the task to be solved is the same, the representations/mechanisms begin aligning across artificial and natural systems)?
 
