@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 👋🏽 Welcome to my website! My name is Saaketh and I'm an [MS in Machine Learning](https://www.ml.cmu.edu/academics/machine-learning-masters-curriculum.html) student at Carnegie Mellon University, working in [Leila Wehbe's group](http://www.cs.cmu.edu/~lwehbe/index.html). I'm interested in building human-aligned AI systems that deeply understand the world around us.
 
-Currently, I'm working on understanding how language is understood and interpreted in the brain as well as in large language models (LLMs). This broadly covers the fields of cognitive neuroscience, AI interpretability, and representational alignment.
+Currently, I'm working on understanding how language is understood and interpreted in the brain as well as in large language models (LLMs). This broadly covers the fields of cognitive neuroscience, mechanistic interpretability, and representational alignment.
 
 In the past, I worked on research in different areas related to this question, including [neuromorphic engineering](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200179), [computational neuroscience](https://www.reddit.com/r/neuromatch/comments/xo3nk4/saaketh_medepalli_vip_inhibitory_neurons_in_the/) and [representation learning](https://arxiv.org/pdf/2310.00451.pdf) as an undergrad.
 
