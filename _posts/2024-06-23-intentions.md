@@ -88,13 +88,13 @@ Due to the rapid advancements in language models along with interpretability res
 
 ## Future of Blog
 
-I think this is an exciting time to be in the field, and I'm looking forward to what's to come! On this note, I'm planning to start a new series called *All Things Aligning*, which will be a set of blog posts aimed at exploring topics within the realm of representational alignment between AI and neuroscience. Each part will take one topic and distill key papers in that area, split across artificial and natural intelligence, with the goal of conveying useful lessons and ideas to the audience. There'll be some math, code, pictures, and hopefully a lot of excitement along the journey as we figure what's really going on!
+I think this is an exciting time to be in the field, and I'm looking forward to what's to come! On this note, I'm planning to start a new series called *All Things Aligning* (ATA), which will be a set of blog posts aimed at exploring topics within the realm of representational alignment between AI and neuroscience. Each part will take one topic and distill key papers in that area, split across artificial and natural intelligence, with the goal of conveying useful lessons and ideas to the audience. There'll be some relevant math, code, visualizations, all with the intention of moving closer to the core parts of the topic!
 
 Here's a list of topics that I'll touch on at some point along the way:
 
-* Terminology: Representations, Features, Tasks, etc. <!-- What are features/representations anyways? (word2vec discussion, etc. do same for vision, robotics) -->
-* Representation Learning  <!-- What features are learned? During training, what is really going on? (grokking paper, mechanistic analysis of training process) -->
+* Terminology: Representations, Features, Tasks, etc. <!-- What are features/representations anyways? (word2vec discussion, etc. do same for vision, robotics) "Getting up to speed"-->
 * Foundation Models <!-- Past-transformers (Can we improve them to be more useful?), Flash Attention, MoE to gating information? Similarly, JEPA for vision, other RL models -->
+* Representation Learning  <!-- What features are learned? During training, what is really going on? (grokking paper, mechanistic analysis of training process) -->
 * Interpreting Representations <!-- Interpretability techniques -->
 * Editing Representations <!-- Model Editing -->
 * Alignment Metrics  <!-- Predictivity (regression), RSA, etc. -->
@@ -102,7 +102,7 @@ Here's a list of topics that I'll touch on at some point along the way:
 * Human-AI Alignment <!-- RLHF, DPO, PPO -->
 * ... and much more!
 
-I'm hoping to post biweekly. Stay tuned for the introduction *All Things Aligning: Getting up to speed* <!-- re-aligned on Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
+Due to other obligations, I'm planning to post monthly for now, though this could change in the future. Stay tuned for *ATA Part 0: A Primer* <!-- re-aligned on Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
 
 <!-- 1. Brain rhythms seem to play a crucial role in chunking the sounds we hear into language. Can we elucidate this mechanism using speech/language models (building on top of the notion that when the task to be solved is the same, the representations/mechanisms begin aligning across artificial and natural systems)?
 
