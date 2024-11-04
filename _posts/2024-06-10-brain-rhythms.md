@@ -7,10 +7,9 @@ date: 2024-07-08
 ---
 
 
-
 ### Language Comprehension
 
-There is a big debate happening in the field of neurolinguistics. Roughly, this can be broken up into nature vs. nurture.
+There is a big debate happening in the field of cognitive neuroscience. Roughly, this can be broken up into nature vs. nurture.
 
 On the nature side (Chomskyans), there are those who believe that hierarchical syntactical structures are built in our brains as we process sounds into language.
 
@@ -39,4 +38,16 @@ The fact that we see word embeddings and their spectrograms able to predict acti
 
 ### Um... if I'm an AI person, why should I care?
 
-The brain is still the true benchmark for AGI in terms of capabilities. We'd be wise to turn to the algorithms and structures learned by the brain as a reference to see how to improve AI systems, including LLMs, to improve their performance (and perhaps also for AI alignment). 
+The brain is still the true benchmark for AGI in terms of capabilities. We'd be wise to turn to the algorithms and structures learned by the brain as a reference to see how to improve AI systems, including LLMs, to improve their performance (and perhaps also for AI alignment).
+
+<!-- TODO: Talk about Tamkin et al. paper -->
+
+### Ok, I'm interested. Tell me more about this alignment...
+
+<!-- TODO: Discuss some preliminary results and what to expect from these findings -->
+
+<!-- TODO: Talk about task-optimization and brain-optimization, where we're going from here-->
+
+### Where do we go from here?
+
+<!-- TODO: discuss next steps, etc. -->
