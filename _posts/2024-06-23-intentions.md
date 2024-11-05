@@ -94,17 +94,14 @@ I'm blessed to have the opportunity to be born in Gen Z, and in some ways, to ha
 
 ## Future of Blog
 
-I see the role of this blog in two ways:
+I see two roles for this blog:
 
-### 1. Exploring My Love of Science
+### 1. Exploring Fun Scientific Topics
 
-<!-- TODO: way to express my love of science and topics that are dear to me. misc topics also. random things that I find fascinating -->
+I think this is an exciting time to be in the field of representational alignment, and I'm looking forward to what's to come. I hope to write about topics related to this area (or beyond) that I find interesting, across topics in machine learning, AI alignment, neuroscience, philosophy and more. I'd like to also use this as an avenue to learn about cool and relevant new ideas/papers (see list below), and experiment with ways to distill these into useful explanations.
 
-I think this is an exciting time to be in the field of representational alignment, and I'm looking forward to what's to come. On this note, I'm planning to start a new series called *All Things Aligning* (ATA), which will be a set of blog posts aimed at exploring topics within the realm of representational alignment across AI, neuroscience, philosophy, and more. Each part will take one topic and distill key papers in that area, with the goal of conveying useful lessons and ideas to the audience. There'll be some relevant math, code, visualizations, all with the intention of moving closer to the core and most meaningful parts of the topic!
+Here's a list of topics that I'm interested in diving deeper into:
 
-Here's a list of topics that I'll touch on at some point along the way:
-
-* Terminology: Representations, Features, Tasks, etc. <!-- What are features/representations anyways? (word2vec discussion, etc. do same for vision, robotics) "Getting up to speed"-->
 * Foundation Models <!-- Past-transformers (Can we improve them to be more useful?), Flash Attention, MoE to gating information? Similarly, JEPA for vision, other RL models, KAN -->
 * Representation Learning  <!-- What features are learned? During training, what is really going on? (grokking paper, mechanistic analysis of training process) -->
 * Interpreting Representations <!-- Interpretability techniques -->
@@ -112,10 +109,15 @@ Here's a list of topics that I'll touch on at some point along the way:
 * Alignment Metrics  <!-- Predictivity (regression), RSA, etc.  -->
 * Improving Alignment <!-- Better tasks (Aran's work), Flash Attention, etc. -->
 * Human-AI Alignment <!-- RLHF, Meaning alignment (moral graphs) -->
-* ... and much more!
+* ... and more!
 
-### 2. 
+### 2. Random Other Topics
+
+I tend to go down rabbit holes quite often when something strikes me as curious, so I'll use the blog also as an avenue to explore miscellaneous topics that I find interesting in the moment and perhaps want to elucidate more for myself. Some topics of interest are philosophy (Western & Eastern), geopolitics, Indian history/culture, future of technology/AI, health, etc.
+
+
+### The End is Just the Beginning
 
 Due to other obligations, the posting schedule will be pretty random since I'm just getting into the hang of it, though hopefully I'll find a more regular schedule in the future. Stay tuned! <!-- re-aligned on Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
 
-*Last modified on 11/3/2024*
+*Last modified on 11/4/2024*
