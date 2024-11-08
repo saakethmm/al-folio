@@ -90,12 +90,9 @@ I've explored the former question thoroughly in this blog post, which is what I'
 
 Another question (on a rather different, but related, note) that is very dear to me is how to build AI systems that are aligned with our goals of constructing meaningful, happy lives, akin to what folks over at the [Meaning Alignment Institute](https://www.meaningalignment.org/) are working on. This is definitely a topic for another post, but to keep it short, many people in my generation (Gen Z) are suffering. From anxiety and depression to comparisons and short-attention spans, high-speed access to very potent stimuli (e.g., social media, video games, pornography, YouTube, etc.) has allowed mental health issues to skyrocket at unprecedented rates. AI has the potential to profoundly exacerbate these problems or improve people's lives. The other important problem for me in the future is to help construct AI models/frameworks/applications that can steer people's lives in a positive direction.
 
-I'm blessed to have the opportunity to be born in Gen Z, and in some ways, to have experienced the devastation caused by P, social media, etc. I know exactly the emotions and feelings people have gone through, along with their effects. Many of my colleagues, by virtue of the way they grew up perhaps, focus on different challenges which are detached from their own lives (living in somewhat of a bubble about what is "important"). I think AI can be profoundly impact on things like age restrictions, or even encouraging play, social interaction, things that make life more happy - my goal is to work on these.  
-
 ## Future of Blog
 
 I see two roles for this blog:
-
 ### 1. Exploring Fun Scientific Topics
 
 I think this is an exciting time to be in the field of representational alignment, and I'm looking forward to what's to come. I hope to write about topics related to this area (or beyond) that I find interesting, across topics in machine learning, AI alignment, neuroscience, philosophy and more. I'd like to also use this as an avenue to learn about cool and relevant new ideas/papers (see list below), and experiment with ways to distill these into useful explanations.
