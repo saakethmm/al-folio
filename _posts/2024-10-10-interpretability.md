@@ -2,7 +2,7 @@
 layout: distill
 published: false
 title:  TODO
-date:   TODO
+date:   2024-09-30  # TODO: change
 description: TODO
 tags: rep-alignment, AI, neuroscience
 categories: all-things-aligning
