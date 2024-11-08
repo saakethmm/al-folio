@@ -1,6 +1,6 @@
 ---
 layout: distill
-published: true
+published: false
 title:  Can AI Predict the 2024 US Elections?
 date:  11-4-2024
 description: A closer look at the models predicting the elections (and how they did)
