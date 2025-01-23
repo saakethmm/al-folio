@@ -4,8 +4,8 @@ published: true
 title:  Me and My Research
 date:   2024-08-18
 description: Why am I doing what I'm doing?
-tags: personal, AI, neuroscience, rep-alignment
-categories: general
+tags: personal, AI, neuroscience
+categories: essays
 comments: true # looks disgusting right now, need to fix this too...
 
 authors:
@@ -93,28 +93,30 @@ Another question (on a rather different, but related, note) that is very dear to
 ## Future of Blog
 
 I see two roles for this blog:
-### 1. Exploring Fun Scientific Topics
 
-I think this is an exciting time to be in the field of representational alignment, and I'm looking forward to what's to come. I hope to write about topics related to this area (or beyond) that I find interesting, across topics in machine learning, AI alignment, neuroscience, philosophy and more. I'd like to also use this as an avenue to learn about cool and relevant new ideas/papers (see list below), and experiment with ways to distill these into useful explanations.
+### 1. Exploring Technical Topics
+
+This is an exciting time to be in the field of machine learning, and for all the ups and downs, I'm fascinated by what people are working on. I hope to write about relevant topics that I find worth clarifying (for myself & hopefully others), across topics in machine learning, AI alignment, AI ethics, neuroscience, philosophy and more. I'd like to also use this as an avenue to learn about cool and relevant new ideas/papers (see list below), and experiment with ways to distill these into useful explanations.
 
 Here's a list of topics that I'm interested in diving deeper into:
 
 * Foundation Models <!-- Past-transformers (Can we improve them to be more useful?), Flash Attention, MoE to gating information? Similarly, JEPA for vision, other RL models, KAN -->
 * Representation Learning  <!-- What features are learned? During training, what is really going on? (grokking paper, mechanistic analysis of training process) -->
 * Interpreting Representations <!-- Interpretability techniques -->
-* Editing Representations <!-- Model Editing -->
+* Retrieval-Augmented Generation (RAG)
+* LLM Personalization
 * Alignment Metrics  <!-- Predictivity (regression), RSA, etc.  -->
 * Improving Alignment <!-- Better tasks (Aran's work), Flash Attention, etc. -->
 * Human-AI Alignment <!-- RLHF, Meaning alignment (moral graphs) -->
 * ... and more!
 
-### 2. Random Other Topics
+### 2. Essays
 
-I tend to go down rabbit holes quite often when something strikes me as curious, so I'll use the blog also as an avenue to explore miscellaneous topics that I find interesting in the moment and perhaps want to elucidate more for myself. Some topics of interest are philosophy (Western & Eastern), geopolitics, Indian history/culture, future of technology/AI, health, etc.
+I tend to go down rabbit holes quite often when something strikes me as curious, so I'll use the blog also as an avenue to explore miscellaneous topics that I find interesting in the moment and perhaps want to elucidate more for myself. Some topics of interest are philosophy (Western & Eastern), Indian history/culture, future of technology/AI, mental health, etc.
 
 
 ### The End is Just the Beginning
 
-Due to other obligations, the posting schedule will be pretty random since I'm just getting into the hang of it, though hopefully I'll find a more regular schedule in the future. Stay tuned! <!-- re-aligned on Representational alignment (How special are these representations?) Platonic Rep Hypothesis -->
+Due to other obligations, the posting schedule will be pretty random since I'm just getting into the hang of it, though hopefully I'll find a more regular schedule in the future. Stay tuned!
 
-*Last modified on 11/4/2024*
+*Last modified on 1/23/2025*
